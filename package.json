@@ -8,5 +8,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bellatrix99/GitBook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bellatrix99/GitBook/issues"
+  },
+  "homepage": "https://github.com/Bellatrix99/GitBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {}
 }
